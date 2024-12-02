@@ -35,9 +35,9 @@ O app será carregado automaticamente no seu dispositivo.
 
 
 # Capturas de Tela
-![Tela de Login](WhatsApp-Image-2024-12-01-at-23.24.23.jpeg)
+![Tela de Login](login.jpeg)
 
-![Tela de Conversão](WhatsApp-Image-2024-12-01-at-23.24.23-(1).jpeg)
+![Tela de Conversão](home.jpeg)
 
 # API Utilizada
 O projeto utiliza a AwesomeAPI para obter as taxas de câmbio em tempo real.
